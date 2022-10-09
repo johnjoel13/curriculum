@@ -1,4 +1,4 @@
-@media  screen and (max-widht:767px) {
+@media  screen and (max-width:767px) {
    .header {
     width: 250px;
    }
@@ -15,10 +15,10 @@
         width: 150px;
     }
     .footer {
-        height: 150px;
+        width: 150px;
     }
     .footer {
-        height: 150px;
+        width: 150px;
     }
     .contents {
         float: none;
