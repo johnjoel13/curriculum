@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author leechanyeong
- *
- */
-module check {
-}
